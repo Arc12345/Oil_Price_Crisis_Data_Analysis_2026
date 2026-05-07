@@ -75,6 +75,16 @@ Clone the repository:
 
 git clone https://github.com/Arc12345/Oil_Price_Crisis_Data_Analysis_2026.git
 
+Install required Python libraries:
+
+pip install pandas Run the Python scripts/notebooks for: Data cleaning EDA
+
+Set up PostgreSQL: Import the cleaned dataset Run SQL queries from the provided scripts
+
+Open Power BI file: Load the dataset View the dashboard
+
+Project Highlights-- End-to-end analytics workflow Multi-tool integration (Python + SQL + Power BI) Real-world business insights
+
 
 -- Key Insights
 Geopolitical tensions significantly increase oil price volatility.
@@ -91,9 +101,11 @@ Dashboard Development
 Business Intelligence Reporting
 Geopolitical Data Interpretation
 
-🤝 Contributing
+-- Contributing
 
 Contributions, suggestions, and improvements are welcome.
+
+
 
 
 
