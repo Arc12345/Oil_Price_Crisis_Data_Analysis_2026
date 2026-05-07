@@ -3,6 +3,7 @@ Analyzed global oil price fluctuations and geopolitical crisis impacts using Pyt
 
 
 -- Global Oil Crisis Data Analysis
+
 --Project Overview
 
 This project analyzes the impact of global geopolitical crises on crude oil prices and their economic effects, especially on India. Using Python, PostgreSQL, and Power BI, the project transforms raw oil market data into meaningful insights through data cleaning, exploratory analysis, and interactive dashboards.
@@ -27,6 +28,7 @@ Microsoft Word
 Microsoft Powerpoint
 
 -- Project Workflow
+
 1️-- Data Collection
 
 Collected historical crude oil price datasets containing:
@@ -36,8 +38,7 @@ WTI Crude Prices
 Date-wise oil market records (Feb-2026 to April-2026)
 Economic indicators
 
-2️-- Data Cleaning & Preprocessing
-
+2️-- Data Cleaning & Preprocessing 
 Performed using Python:
 
 Removed missing values
@@ -46,7 +47,7 @@ Converted date formats
 Handled duplicates
 Prepared data for SQL analysis
 
--- SQL Analysis
+3-- SQL Analysis
 
 Used PostgreSQL/pgAdmin for:
 
@@ -57,7 +58,7 @@ Volatility Analysis
 Economic Impact Queries
 
 
--- Power BI Dashboard
+--4 Power BI Dashboard
 
 Created an interactive dashboard including:
 
@@ -104,6 +105,11 @@ Geopolitical Data Interpretation
 -- Contributing
 
 Contributions, suggestions, and improvements are welcome.
+
+-- Author
+
+Arijit Roy
+Data Analytics Enthusiast | Python | SQL | Power BI | Business Intelligence
 
 
 
